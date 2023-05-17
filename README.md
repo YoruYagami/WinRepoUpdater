@@ -1,6 +1,7 @@
 ## WinRepoUpdater
 
 WinRepoUpdater is a PowerShell script designed to update multiple Git repositories located in a directory or its subdirectories. It automates the process of pulling the latest changes from the remote repository for each repository found.
+
 ## Features
 
 - Updates multiple Git repositories in a specified directory or its subdirectories.
