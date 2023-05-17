@@ -35,13 +35,13 @@ Import Module
   . .\WinRepoUpdater.ps1
 ```
 
-Call the function
+Call the function (This will update all the repo's from the specific directory)
 
 ```powershell
   Invoke-WinRepoUpdater
 ```
 
-Update all the repos in a specific folder
+Update all the repos in a specific directory
 
 ```powershell
   Invoke-WinRepoUpdater C:\Users\pentester\C2-Frameworks\
